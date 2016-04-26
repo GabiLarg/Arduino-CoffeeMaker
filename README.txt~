@@ -1,0 +1,9 @@
+Smart Coffee Machine
+
+How to use
+
+We need a apache server to make the connection through PHP
+The arduino serial port must have permission to read/write. 
+The serial monitor must to be open to enable the communication.
+ 
+ 

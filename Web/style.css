@@ -1,0 +1,42 @@
+body, select{
+	font-family: 'Press Start 2P', cursive;
+	color: #ff0000;
+}
+
+
+#content{
+	width: 100%;
+	height: 10px;
+	float: left;
+	}
+#image{
+	width: 170px;
+	margin: auto;	
+}
+#button-div{
+	width: 115px;
+	margin: auto auto;
+}
+.button{
+	font-family: 'Press Start 2P', cursive;
+	font-size: 24px;
+	color: #ff0000;
+	border: 1px solid;
+}
+#page{
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 70%;
+}
+
+#page div{
+	width: 100%;
+	padding-top:30px;
+	float: left;
+}
+#developers{
+	margin-top: 200px;
+	float: right;
+	font-size: 12px;
+}
+
